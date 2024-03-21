@@ -1,0 +1,5 @@
+
+INFO [2024-03-03T10:51:17.178Z]: Set User: fancylin510@gmail.com
+INFO [2024-03-03T10:51:17.178Z]: {"Telemetry":true}
+INFO [2024-03-03T10:51:28.274Z]: extension_initialized
+INFO [2024-03-03T10:51:28.275Z]: {"timeToInit":16095,"agent":"cosine-vscode","version":"1.1.2","package":"@cosine/analytics"}
